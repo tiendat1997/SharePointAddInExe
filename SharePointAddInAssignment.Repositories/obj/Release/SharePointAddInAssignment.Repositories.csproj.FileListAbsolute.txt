@@ -1,0 +1,14 @@
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\SharePointAddInAssignment.Repositories.dll.config
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\SharePointAddInAssignment.Repositories.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\SharePointAddInAssignment.Repositories.pdb
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\EntityFramework.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\SharePointAddInAssignment.Entities.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\SharePointAddInAssignment.Entities.pdb
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\SharePointAddInAssignment.Entities.dll.config
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\EntityFramework.xml
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\obj\Release\SharePointAddInAssignment.Repositories.csprojAssemblyReference.cache
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\obj\Release\SharePointAddInAssignment.Repositories.csproj.CopyComplete
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\obj\Release\SharePointAddInAssignment.Repositories.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Repositories\obj\Release\SharePointAddInAssignment.Repositories.pdb

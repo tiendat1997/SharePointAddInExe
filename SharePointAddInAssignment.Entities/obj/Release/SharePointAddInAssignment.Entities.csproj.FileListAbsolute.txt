@@ -1,0 +1,11 @@
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\bin\Release\SharePointAddInAssignment.Entities.dll.config
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\bin\Release\SharePointAddInAssignment.Entities.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\bin\Release\SharePointAddInAssignment.Entities.pdb
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\bin\Release\EntityFramework.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\bin\Release\EntityFramework.xml
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\obj\Release\SharePointAddInAssignment.Entities.csprojAssemblyReference.cache
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\obj\Release\SharePointAddInAssignment.Entities.csproj.CopyComplete
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\obj\Release\SharePointAddInAssignment.Entities.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Entities\obj\Release\SharePointAddInAssignment.Entities.pdb

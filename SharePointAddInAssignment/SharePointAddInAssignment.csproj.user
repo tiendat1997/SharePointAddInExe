@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>https://m365b832837.sharepoint.com/sites/develop.addins/</SharePointSiteUrl>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectStore>
+          <AppInstancePackageModifiedTime>2019-11-15T08:56:41.4343889Z</AppInstancePackageModifiedTime>
+          <AppInstanceId>38e5f47b-9735-4bcd-af63-3863cd1f8ed1</AppInstanceId>
+          <IsWorkflowDebuggingEnabled>false</IsWorkflowDebuggingEnabled>
+        </ProjectStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

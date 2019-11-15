@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointAddInAssignment", "SharePointAddInAssignment\SharePointAddInAssignment.csproj", "{F8B91FCC-0A09-4A4F-9067-ED26DFF97486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointAddInAssignmentWeb", "SharePointAddInAssignmentWeb\SharePointAddInAssignmentWeb.csproj", "{36812521-131B-47C3-8BC8-B8B1F59192EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointAddInAssignment.Entities", "SharePointAddInAssignment.Entities\SharePointAddInAssignment.Entities.csproj", "{545EAF18-D073-41E9-B9BC-46D5E6EB432A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointAddInAssignment.Services", "SharePointAddInAssignment.Services\SharePointAddInAssignment.Services.csproj", "{D46C7C7A-6D5C-45B6-ABB3-3C1F83778562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointAddInAssignment.Repositories", "SharePointAddInAssignment.Repositories\SharePointAddInAssignment.Repositories.csproj", "{860ED1F8-75FD-4CD0-B2B4-676C7FC8D429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B91FCC-0A09-4A4F-9067-ED26DFF97486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B91FCC-0A09-4A4F-9067-ED26DFF97486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B91FCC-0A09-4A4F-9067-ED26DFF97486}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F8B91FCC-0A09-4A4F-9067-ED26DFF97486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B91FCC-0A09-4A4F-9067-ED26DFF97486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B91FCC-0A09-4A4F-9067-ED26DFF97486}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{36812521-131B-47C3-8BC8-B8B1F59192EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36812521-131B-47C3-8BC8-B8B1F59192EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36812521-131B-47C3-8BC8-B8B1F59192EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36812521-131B-47C3-8BC8-B8B1F59192EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545EAF18-D073-41E9-B9BC-46D5E6EB432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545EAF18-D073-41E9-B9BC-46D5E6EB432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545EAF18-D073-41E9-B9BC-46D5E6EB432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545EAF18-D073-41E9-B9BC-46D5E6EB432A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46C7C7A-6D5C-45B6-ABB3-3C1F83778562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46C7C7A-6D5C-45B6-ABB3-3C1F83778562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46C7C7A-6D5C-45B6-ABB3-3C1F83778562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46C7C7A-6D5C-45B6-ABB3-3C1F83778562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860ED1F8-75FD-4CD0-B2B4-676C7FC8D429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860ED1F8-75FD-4CD0-B2B4-676C7FC8D429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860ED1F8-75FD-4CD0-B2B4-676C7FC8D429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860ED1F8-75FD-4CD0-B2B4-676C7FC8D429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A23292B4-97BE-4555-8038-F22BC7919919}
+	EndGlobalSection
+EndGlobal

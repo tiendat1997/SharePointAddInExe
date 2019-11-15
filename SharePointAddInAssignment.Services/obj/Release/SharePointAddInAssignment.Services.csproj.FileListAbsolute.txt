@@ -1,0 +1,17 @@
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Services.dll.config
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Services.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Services.pdb
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\EntityFramework.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Repositories.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Entities.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Repositories.pdb
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Repositories.dll.config
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\EntityFramework.xml
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Entities.pdb
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\bin\Release\SharePointAddInAssignment.Entities.dll.config
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\obj\Release\SharePointAddInAssignment.Services.csprojAssemblyReference.cache
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\obj\Release\SharePointAddInAssignment.Services.csproj.CopyComplete
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\obj\Release\SharePointAddInAssignment.Services.dll
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment.Services\obj\Release\SharePointAddInAssignment.Services.pdb

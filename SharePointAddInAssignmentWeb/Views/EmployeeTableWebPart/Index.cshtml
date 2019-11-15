@@ -1,0 +1,79 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Provider hosted app</title>    
+    <link rel="stylesheet" href="@Request.QueryString["SPHostUrl"]/Style%20Library/EmployeeTableWebPart/bootstrap.min.css" />
+    <link rel="stylesheet" href="@Request.QueryString["SPHostUrl"]/Style%20Library/EmployeeTableWebPart/App.css" />
+    <script src="@Request.QueryString["SPHostUrl"]/Style%20Library/EmployeeTableWebPart/jquery-3.3.1.min.js" type="text/javascript"></script>
+    <script src="@Request.QueryString["SPHostUrl"]/Style%20Library/EmployeeTableWebPart/bootstrap.min.js" type="text/javascript"></script>
+    <script src="@Request.QueryString["SPHostUrl"]/Style%20Library/EmployeeTableWebPart/App.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        function createElement(type, attributes) {
+            let ele = document.createElement(type);
+            for (let attr of attributes) {
+                ele.setAttribute(attr.Name, attr.Value);
+            }
+            return ele;
+        }
+        function createLinkTag() {
+            return createElement('link', [{ Name: 'rel', Value: 'stylesheet' }]);
+        }
+        function createScriptTag() {
+            return createElement('script', [{ Name: 'type', Value: 'text/javascript' }]);
+        }
+
+        // Set the style of the client web part page to be consistent with the host web.
+        (function () {
+            'use strict';
+
+            var hostUrl = '';
+            var baseAppResource = '/Style%20Library/EmployeeTableWebPart';
+
+            var link = createLinkTag();
+            var appLink = createLinkTag();
+            var bootstrapLink = createLinkTag();
+            var appScript = createScriptTag();
+            var jqueryScript = createScriptTag();
+            var bootstrapScript = createScriptTag();
+
+            if (document.URL.indexOf('?') != -1) {
+                var params = document.URL.split('?')[1].split('&');
+                for (var i = 0; i < params.length; i++) {
+                    var p = decodeURIComponent(params[i]);
+                    if (/^SPHostUrl=/i.test(p)) {
+                        hostUrl = p.split('=')[1];
+                        link.setAttribute('href', hostUrl + '/_layouts/15/defaultcss.ashx');
+                        break;
+                    }
+                }
+            }
+
+            if (hostUrl == '') {
+                link.setAttribute('href', '/_layouts/15/1033/styles/themable/corev15.css');
+            }
+            document.head.appendChild(link);
+        })();
+    </script>
+</head>
+<body>
+    <div id="dynamicContent">
+        <table id="tbl-employee" class="table table-responsive table-striped">
+            <thead>
+                <tr>
+                    <td>ID</td>
+                    <td>National ID</td>
+                    <td>Name</td>
+                    <td>Job Title</td>
+                    <td>Publish</td>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</body>
+</html>

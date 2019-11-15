@@ -1,0 +1,1 @@
+C:\Users\datr\source\dev\SharePointAddInAssignment\SharePointAddInAssignment\bin\Debug\app.publish\1.0.0.0\SharePointAddInAssignment.app
